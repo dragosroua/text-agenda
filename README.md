@@ -2,6 +2,8 @@
 
 `agenda.sh` is a terminal agenda for the day files in this folder. It draws a calendar on the left and the tasks for the selected day on the right. Bash 3.2 is enough. Nothing else needs to be installed.
 
+![The agenda, with the calendar on the left and the day's tasks on the right](agenda.png)
+
 The window needs at least 80 columns and 24 rows. A wider window gives the tasks more room, and a line that does not fit continues on the next row.
 
 ## Run it
